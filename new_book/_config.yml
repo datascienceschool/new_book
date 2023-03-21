@@ -1,0 +1,26 @@
+title: 데이터 사이언스 스쿨
+author: 김도형
+logo: logo.svg
+
+only_build_toc_files: true
+
+repository:
+  url: https://github.com/datascienceschool/new_book
+  path_to_book: new_book
+  branch: main
+
+html:
+  comments:
+    hypothesis: true
+    utterances:
+      repo: "datascienceschool/new_book"
+  use_issues_button: true
+  use_repository_button: true
+
+execute:
+  execute_notebooks: 'off'
+
+sphinx:
+  config:
+    show_authors: false
+    html_show_copyright: false
