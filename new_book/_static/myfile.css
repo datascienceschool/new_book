@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+KR&family=Nanum+Gothic+Coding&family=Noto+Sans+KR&family=Black+Han+Sans&display=swap");
+
+* {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+img.logo__image.only-light {
+  width: 50px;
+}

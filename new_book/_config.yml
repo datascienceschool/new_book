@@ -11,14 +11,13 @@ repository:
 
 html:
   comments:
-    hypothesis: true
     utterances:
       repo: "datascienceschool/new_book"
   use_issues_button: true
   use_repository_button: true
 
 execute:
-  execute_notebooks: 'off'
+  execute_notebooks: "off"
 
 sphinx:
   config:
