@@ -1,2 +1,2 @@
 jupyter-book build new_book
-ghp-import -n -c datascienceschool.net -f -o -p new_book/_build/html
+ghp-import -c new-book.datascienceschool.net -f -n -o -p new_book/_build/html
