@@ -3,5 +3,7 @@ _build/
 .DS_Store
 _site/
 .quarto/
+*.log
+*.tex
 
 /.quarto/
