@@ -14,6 +14,10 @@ website:
       - index.ipynb
       - about.ipynb
       - notebook.ipynb
+      - text: "example.html"
+        file: example.html
+      - text: "index.html"
+        file: next/index.html
   sidebar:
     style: "docked"
     search: true
